@@ -9,7 +9,7 @@ Linux, MacOS or Windows (WSL)
 ## How to install
 
 ```bash
-$ git clone git@github.com:thedoorbell/fullstack-javascript-project-4.git
+$ git clone git@github.com:thedoorbell/page-loader.git
 ```
 ```bash
 $ npm install 
