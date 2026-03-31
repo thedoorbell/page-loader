@@ -9,10 +9,9 @@ Linux, MacOS or Windows (WSL)
 ## How to install
 
 ```bash
-$ git clone git@github.com:thedoorbell/page-loader.git
-```
-```bash
-$ npm install 
+git clone https://github.com/thedoorbell/page-loader
+cd page-loader
+npm install
 ```
 
 ### page-loader - download HTML page demo-run
